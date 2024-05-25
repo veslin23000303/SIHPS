@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: 08-05-2024
-## Register Number: 212221220003
-## Name: AKASH R
+# Date: 25-05-2024
+## Register Number: 212223240175
+## Name: VESLIN ANISH A
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
@@ -34,12 +34,14 @@ Conserving resource
 promoting a healthier and safer world.
 By reducing, reusing, and recycling electronic devices, we can make a positive impact and pave the way for a sustainable future.
 
-![328489361-fccadf20-163f-4a6e-b35c-3ac14c1ad3ae](https://github.com/04Varsha/SIHPS/assets/149035374/b16b1a96-8348-419c-aaeb-a3fd603a5805)
+![WhatsApp Image 2024-05-25 at 12 37 49_0d43f0e8](https://github.com/veslin23000303/SIHPS/assets/151148539/760ba3ab-d9d3-4a0e-94b8-80e1b156a2e1)
+
 
 
 ## Proposed Solution / Architecture Diagram
 
-![328493096-4c98b0fb-a412-48fa-92ed-03b45b8e2eab](https://github.com/04Varsha/SIHPS/assets/149035374/3da2d194-39ac-4141-a5f2-5d923fb8f2fb)
+![WhatsApp Image 2024-05-25 at 12 38 10_109c4bc5](https://github.com/veslin23000303/SIHPS/assets/151148539/930de84a-f333-4a15-9f99-6c04b0c70e08)
+
 
 
 ## Use Cases
